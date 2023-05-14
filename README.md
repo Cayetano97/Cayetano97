@@ -2,7 +2,6 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQyM2I1ZGYwMzQ5ZGU0MzEwNjIzZTdmYjc0MTRlMDRlZmZiODU2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200">
     <h1 align="center">Hi 👋, I´m Cayetano</h1>
     <h3>
-___
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
