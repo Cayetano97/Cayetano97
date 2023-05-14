@@ -42,7 +42,7 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Cayetano97&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
     
     
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayetano97&theme=dark#gh-dark-mode-only&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayetano97&langs_count=5&theme=dark#gh-dark-mode-only&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
 
