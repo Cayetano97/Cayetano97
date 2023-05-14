@@ -1,8 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQyM2I1ZGYwMzQ5ZGU0MzEwNjIzZTdmYjc0MTRlMDRlZmZiODU2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200">
     <h1 align="center">Hi 👋, I´m Cayetano</h1>
-    <h3>
-
+     <h3 align="left">
+         
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,8 +11,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+         
 </h3>
+    
 </div>
+
+
 
 <hr>
 
@@ -26,3 +30,21 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" tittle="React" alt="React" witdh="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" tittle="Git" alt="Git" witdh="40" height="40"/>&nbsp;
 </div>
+
+<hr>
+
+<h3> 📊 My Stats: </h3>
+<div align="center">
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cayetano97&theme=dark&border_radius=2&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Cayetano97&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Cayetano97&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+    
+    
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayetano97&theme=dark#gh-dark-mode-only&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ </div>
+
+
+
