@@ -1,10 +1,9 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQyM2I1ZGYwMzQ5ZGU0MzEwNjIzZTdmYjc0MTRlMDRlZmZiODU2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200">
+</div>
 
-<!--
-**Cayetano97/Cayetano97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
+<h1 align="center">Hi 👋, I´m Cayetano</h1>
+<h3>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +12,5 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+</h3>
 
