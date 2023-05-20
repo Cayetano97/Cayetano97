@@ -27,6 +27,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="JavaScript" alt="Javascript" witdh="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" tittle="SASS" alt="SASS" witdh="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" tittle="Bootstrap" alt="Bootstrap" witdh="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" tittle="TypeScript" alt="TypeScrypt" witdh="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" tittle="React" alt="React" witdh="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" tittle="Git" alt="Git" witdh="40" height="40"/>&nbsp;
 </div>
