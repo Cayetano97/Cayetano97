@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQyM2I1ZGYwMzQ5ZGU0MzEwNjIzZTdmYjc0MTRlMDRlZmZiODU2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200">
-    <h1 align="center">Hi 👋, I´m Cayetano</h1>
+    <h1 align="center">Hi 👋🏻, I´m Cayetano</h1>
      <h3 align="left">
 
 I'm Cayetano, a tech enthusiast who transitioned from computer repairs to becoming a passionate Full Stack developer. With a lifelong love for technology, I now enjoy creating innovative solutions by leveraging my technical skills and knowledge. My goal is to keep learning, embrace new challenges, and make a positive impact in the ever-evolving field of web development.
@@ -22,8 +22,15 @@ I'm Cayetano, a tech enthusiast who transitioned from computer repairs to becomi
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" tittle="Bootstrap" alt="Bootstrap" witdh="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" tittle="TypeScript" alt="TypeScrypt" witdh="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" tittle="React" alt="React" witdh="40" height="40"/>&nbsp;
+    <img src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png" tittle="Styled" alt="Styled" witdh="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" tittle="Jest" alt="Jest" witdh="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" tittle="Git" alt="Git" witdh="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" tittle="Node" alt="Node" witdh="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" tittle="Express" alt="Express" witdh="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" tittle="MongoDB" alt="MondoDB" witdh="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" tittle="mysql" alt="mysql" witdh="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" tittle="Mongoose" alt="Mongoose" witdh="40" height="40"/>&nbsp;
+    
 </div>
 
 <hr>
