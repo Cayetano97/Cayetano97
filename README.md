@@ -5,7 +5,7 @@
 
 
 <h3 align="left">
-    I'm a tech enthusiast who transitioned from computer repairs to becoming a passionate Full Stack developer. With a lifelong love for technology, I now enjoy creating innovative solutions by leveraging my technical skills and knowledge. My goal is to keep learning, embrace new challenges, and make a positive impact in the ever-evolving field of web development.
+I'm a tech enthusiast who transitioned from computer repairs to becoming a passionate Full Stack developer. With a lifelong love for technology, I now enjoy creating innovative solutions by leveraging my technical skills and knowledge. My goal is to keep learning, embrace new challenges, and make a positive impact in the ever-evolving field of web development.
 </h3>
 
 <hr>
