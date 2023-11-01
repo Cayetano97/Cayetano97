@@ -1,9 +1,9 @@
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQyM2I1ZGYwMzQ5ZGU0MzEwNjIzZTdmYjc0MTRlMDRlZmZiODU2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200">
-   <h1>Hi 👋🏻, I´m Cayetano</h1>
+    <br>
 </div>
-
-
+   <h1>Hi 👋🏻, I´m Cayetano</h1>
+   <br>
 <span>
 I'm a tech enthusiast who transitioned from computer repairs to becoming a passionate Full Stack developer. With a lifelong love for technology, I now enjoy creating innovative solutions by leveraging my technical skills and knowledge. My goal is to keep learning, embrace new challenges, and make a positive impact in the ever-evolving field of web development.
 </span>
