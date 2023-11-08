@@ -8,6 +8,10 @@
 I'm a tech enthusiast who transitioned from computer repairs to becoming a passionate Full Stack developer. With a lifelong love for technology, I now enjoy creating innovative solutions by leveraging my technical skills and knowledge. My goal is to keep learning, embrace new challenges, and make a positive impact in the ever-evolving field of web development.
 </span>
 
+<span> </span>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cayetanolopez/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:lopezcayetano315@gmail.com)
 <hr>
 
 <div align="left">
@@ -44,6 +48,9 @@ I'm a tech enthusiast who transitioned from computer repairs to becoming a passi
 
 <h3> 📊 Stats: </h3>
 <div align="center">
+
+
+
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Cayetano97&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
