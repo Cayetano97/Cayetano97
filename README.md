@@ -12,7 +12,6 @@ I'm a tech enthusiast who transitioned from computer repairs to becoming a passi
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayetano-lopez/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopezcayetano315@gmail.com)
-
 <hr>
 
 <div align="left">
