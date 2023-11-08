@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQyM2I1ZGYwMzQ5ZGU0MzEwNjIzZTdmYjc0MTRlMDRlZmZiODU2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQyM2I1ZGYwMzQ5ZGU0MzEwNjIzZTdmYjc0MTRlMDRlZmZiODU2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="350">
     <br>
 </div>
    <h1>Hi 👋🏻, I´m Cayetano</h1>
