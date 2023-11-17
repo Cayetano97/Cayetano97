@@ -33,6 +33,7 @@ I'm a tech enthusiast who transitioned from computer repairs to becoming a passi
 
  <h3> 🛠️ Tools: </h3>
  
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Dark.svg" tittle="Linux" alt="Linux" witdh="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" tittle="GitHub" alt="Github" witdh="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" tittle="Git" alt="Git" witdh="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" tittle="Figma" alt="Figma" witdh="40" height="40"/>&nbsp;
