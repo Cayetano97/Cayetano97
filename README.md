@@ -28,6 +28,7 @@ I'm a tech enthusiast who transitioned from computer repairs to becoming a passi
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" tittle="Node" alt="Node" witdh="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg" tittle="Express" alt="Express" witdh="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" tittle="MongoDB" alt="MondoDB" witdh="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Firebase-Dark.svg" tittle="Firebase" alt="Firebase" witdh="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg" tittle="mysql" alt="mysql" witdh="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" tittle="Mongoose" alt="Mongoose" witdh="40" height="40"/>&nbsp;
 
