@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQyM2I1ZGYwMzQ5ZGU0MzEwNjIzZTdmYjc0MTRlMDRlZmZiODU2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="350">
     <br>
 </div>
-   <h1>Hi 👋🏻, I´m Cayetano</h1>
+   <h1>Hi 👋🏻</h1>
    <br>
 <span>
 A technology enthusiast who transitioned from computer repairs to becoming a passionate Full Stack developer. With a lifelong love for technology, I now enjoy coding at every opportunity. My goal is to keep learning and improving as much as possible.
