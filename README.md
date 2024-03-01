@@ -20,10 +20,11 @@ A technology enthusiast who transitioned from computer repairs to becoming a pas
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" tittle="CSS3" alt="CSS" witdh="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" tittle="JavaScript" alt="Javascript" witdh="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" tittle="TypeScript" alt="TypeScrypt" witdh="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Sass.svg" tittle="SASS" alt="SASS" witdh="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bootstrap.svg" tittle="Bootstrap" alt="Bootstrap" witdh="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" tittle="React" alt="React" witdh="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Sass.svg" tittle="SASS" alt="SASS" witdh="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StyledComponents.svg" tittle="Styled" alt="Styled" witdh="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" tittle="React" alt="React" witdh="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Redux.svg" tittle="Redux" alt="Redux" witdh="40" height="40"/>&nbsp;
  <h3> 🔧 Backend Technologies: </h3>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" tittle="Node" alt="Node" witdh="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg" tittle="Express" alt="Express" witdh="40" height="40"/>&nbsp;
