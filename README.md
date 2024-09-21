@@ -5,9 +5,9 @@
 
    <br>
 
-<span> </span>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayetano-lopez/)
+
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayetano-lopez/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopezcayetano315@gmail.com)
 <hr>
 
@@ -38,10 +38,14 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" title="Figma" alt="Figma" witdh="40" height="40"/>&nbsp;
 
  
-</div>
+</div>-->
 
 <hr>
 
+<div align="center">
+<span> Tech Enthusiast </span>
+</div>
+<br>
 
 <div align="center">
 
