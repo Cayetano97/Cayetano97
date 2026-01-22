@@ -49,10 +49,7 @@
 
 <div align="center">
 
-
-
-![Top Langs](https://github-readme-stats-pi-eight-18.vercel.app/api/top-langs/?username=Cayetano97&layout=compact&theme=dark)
-
+![Top Langs](https://github-readme-stats-pi-eight-18.vercel.app/api/top-langs/?username=Cayetano97&layout=compact&theme=dark&hide_border=true&cache_seconds=21600)
 
  </div>
 
